@@ -1,6 +1,6 @@
 baseURL = 'https://vasujain.me'
 languageCode = 'en-us'
-title = 'Home | Vasu Jain'
+title = 'Vasu Jain'
 theme = "poison"
 paginate = 10
 pluralizelisttitles = false
